@@ -1,0 +1,325 @@
+document_name,field_name
+24 Hour Report,Date of Service
+Activity of Daily living (ADL) sheets,Date of Service
+Activity of Daily living (ADL) sheets,Resident Name
+Activity of Daily living (ADL) sheets,Signature Present
+Additional Development Request,Date of Service
+Additional Development Request,DCN
+Additional Development Request,Medical Record Number
+Additional Development Request,Medicare ID
+Additional Development Request,Resident Name
+Additional Documentation Request,Date of Service
+Additional Documentation Request,DCN
+Additional Documentation Request,Diagnosis
+Additional Documentation Request,Medical Record Number
+Additional Documentation Request,Medicare ID
+Additional Documentation Request,Resident Name
+ADL Document,Date of Service
+Admission Record,Admission Date
+Admission Record,Benefit Period
+Admission Record,Claim number
+Admission Record,Date of Birth
+Admission Record,Date of Service
+Admission Record,Diagnosis
+Admission Record,Discharge Date
+Admission Record,Hospital Name
+Admission Record,Insurance ID
+Admission Record,Insurance Name
+Admission Record,NPI
+Admission Record,Provider Name
+Admission Record,Resident Name
+Assessment Report,Date of Service
+CAA Worksheet,Date of Service
+Cardiology Report,Date of Service
+Care Plans,Attending Physician
+Care Plans,Date of Service
+Care Plans,Resident Name
+Certification and Recertification,Admission Date
+Certification and Recertification,Date of Service
+Certification and Recertification,Date of Signature
+Certification and Recertification,Physician/nurse practitioner (NP)/physician assistant (PA) signature
+Certification and Recertification,Plan of Care
+Certification and Recertification,Resident Name
+Certification and Recertification,Services Required
+Clinical Documentation from nursing,Date of Service
+Clinical Documentation from nursing,Resident Name
+Clinical Documentation from therapy services,Date of Service
+Clinical Documentation from therapy services,Resident Name
+Common Working File,Date of Service
+Consent to Treatment,Consent Date
+Consent to Treatment,Consent Type
+Consent to Treatment,Date of Service
+Consent to Treatment,Resident Name
+Consult note,Admission Date
+Consult note,Date of Service
+Consult note,Discharge Date
+Consult note,Nurse Practitioner Signature Present?
+Consult note,Physician Signature Present?
+Consult note,Reason for Hospital Stay
+Consult note,Resident Name
+Copy of ADR / DDE,Date of Service
+Copy of UB-04,Date of Service
+Coverage Summary Letter Rehab and/or Nursing,Date of Service
+Coversheet,Admission Date
+Coversheet,Benefit Period
+Coversheet,Claim number
+Coversheet,Date of Birth
+Coversheet,Date of Service
+Coversheet,Diagnosis
+Coversheet,Discharge Date
+Coversheet,Hospital Name
+Coversheet,Insurance ID
+Coversheet,Insurance Name
+Coversheet,NPI
+Coversheet,Provider Name
+Coversheet,PTAN
+Coversheet,Resident Name
+Coversheet,Xref Number
+Daily Skilled Nurse's Notes,Date of Service
+DEFAULT SECTION,Assessment
+DEFAULT SECTION,Beneficiary Name
+DEFAULT SECTION,Chief Complaint/Problem/Issue
+DEFAULT SECTION,Date of Birth
+DEFAULT SECTION,Date of Service
+DEFAULT SECTION,Diagnosis
+DEFAULT SECTION,Frequency of usage
+DEFAULT SECTION,Length of Need
+DEFAULT SECTION,Name of Therapist
+DEFAULT SECTION,Orders
+DEFAULT SECTION,Physician name
+DEFAULT SECTION,Plan of Care
+DEFAULT SECTION,Signature Date
+DEFAULT SECTION,Test Name
+DEFAULT SECTION,Test Result
+DEFAULT SECTION,Therapist Signature Present
+DEFAULT SECTION,Vitals
+Department Notes,Date of Service
+Diagnosis List,Date of Service
+Diagnosis List,Diagnosis
+Diagnosis List,Signature Present
+Dietary Notes,Date of Service
+Discharge instructions,Admission Date
+Discharge instructions,Date of Service
+Discharge instructions,Discharge Date
+Discharge instructions,Nurse Practitioner Signature Present?
+Discharge instructions,Physician Signature Present?
+Discharge instructions,Reason for Hospital Stay
+Discharge instructions,Resident Name
+Discharge note,Admission Date
+Discharge note,Date of Service
+Discharge note,Discharge Date
+Discharge note,Nurse Practitioner Signature Present?
+Discharge note,Physician Signature Present?
+Discharge note,Reason for Hospital Stay
+Discharge note,Resident Name
+Discharge summary,Date of Service
+Discharge summary,Discharge Date
+Discharge summary,Discharge Instructions
+Discharge summary,Resident Name
+Document Survey Report,Date of Service
+ED record,Admission Date
+ED record,Date of Service
+ED record,Discharge Date
+ED record,Nurse Practitioner Signature Present?
+ED record,Physician Signature Present?
+ED record,Reason for Hospital Stay
+ED record,Resident Name
+Emergency department record,Admission Date
+Emergency department record,Date of Service
+Emergency department record,Discharge Date
+Emergency department record,Nurse Practitioner Signature Present?
+Emergency department record,Physician Signature Present?
+Emergency department record,Reason for Hospital Stay
+Emergency department record,Resident Name
+Face sheet,Admission Date
+Face sheet,Benefit Period
+Face sheet,Claim number
+Face sheet,Date of Birth
+Face sheet,Date of Service
+Face sheet,Diagnosis
+Face sheet,Discharge Date
+Face sheet,Hospital Name
+Face sheet,Insurance ID
+Face sheet,Insurance Name
+Face sheet,NPI
+Face sheet,Provider Name
+Face sheet,PTAN
+Face sheet,Resident Name
+Face sheet,Xref Number
+Flowsheet,Date of Flowsheet
+Flowsheet,Date of Service
+Flowsheet,Resident Name
+HISTORY AND PHYSICAL,Date of Service
+HISTORY AND PHYSICAL,Diagnosis
+HISTORY AND PHYSICAL,Resident Name
+H & P,Date of Service
+H & P,Diagnosis
+H & P,Resident Name
+IDT Notes,Date of Service
+Inpatient Registration and Admission Form,Admission Date
+Inpatient Registration and Admission Form,Benefit Period
+Inpatient Registration and Admission Form,Claim number
+Inpatient Registration and Admission Form,Date of Birth
+Inpatient Registration and Admission Form,Date of Service
+Inpatient Registration and Admission Form,Diagnosis
+Inpatient Registration and Admission Form,Discharge Date
+Inpatient Registration and Admission Form,Hospital Name
+Inpatient Registration and Admission Form,Insurance ID
+Inpatient Registration and Admission Form,Insurance Name
+Inpatient Registration and Admission Form,NPI
+Inpatient Registration and Admission Form,Provider Name
+Inpatient Registration and Admission Form,Resident Name
+Long Term Care,Date of Service
+Interfacility Transfer,Date of Service
+MAR,Date of Service
+MAR,Date Range
+MAR,Resident Name
+MAR,Signature Present
+MDS Assessments,Date of Service
+MDS Rehab Data Report,Date of Service
+Medical Record,Date of Birth
+MEDICATION ADMINISTRATION RECORD,Date of Birth
+MEDICATION ADMINISTRATION RECORD,Date of Service
+MEDICATION ADMINISTRATION RECORD,Date Range
+MEDICATION ADMINISTRATION RECORD,Resident Name
+MEDICATION ADMINISTRATION RECORD,Signature Present
+Nursing and Other Notes,Date of Service
+Minimum Data Set,Date of Service
+Nursing Admission Assessments,Date of Service
+Occupational Therapy,Date of Service
+Order Summary Report,Date of Service
+Order Summary Report,Diagnosis
+Order Summary Report,End Date
+Order Summary Report,Orders
+Order Summary Report,Physician Name
+Order Summary Report,Physician Signature Present
+Order Summary Report,Resident Name
+Order Summary Report,Signature Date
+Order Summary Report,Start Date
+Pathology Report,Date of Service
+Pathology Report,Report Date
+Pathology Report,Resident Name
+Physical Therapy,Date of Service
+PHYSICIAN ORDERS,Date of Service
+PHYSICIAN ORDERS,Diagnosis
+PHYSICIAN ORDERS,End Date
+PHYSICIAN ORDERS,Orders
+PHYSICIAN ORDERS,Physician Name
+PHYSICIAN ORDERS,Physician Signature Present
+PHYSICIAN ORDERS,Resident Name
+PHYSICIAN ORDERS,Signature Date
+PHYSICIAN ORDERS,Start Date
+Physician Query Form,Date of Service
+Plan of Care,Attending Physician
+Plan of Care,Date of Service
+Plan of Care,Resident Name
+Prescription Form and Certificate of Medical Necessity,Date of Service
+Prior Stay Form,Date of Service
+Progress Notes,Are the notes signed?
+Progress Notes,Date of Service
+Progress Notes,Dates of physician Note
+Progress Notes,NPP notes
+Provider Notes,Date of Service
+Psychiatry Progress Note,Date of Service
+Qualifying Hospital Stay Waiver,Date of Note
+Qualifying Hospital Stay Waiver,Date of Service
+Qualifying Hospital Stay Waiver,Physician/NP/Physician Assistant Name
+Qualifying Hospital Stay Waiver,Physician/NP/Physician Assistant Signature Present?
+Qualifying Hospital Stay Waiver,Type of waiver
+Radiographic report,Date of Service
+RADIOLOGY REPORT,Date of Service
+Signature List,Date of Service
+Service Log Metrix,Date of Service
+Signature Attestation,Date of Service
+Signature Logs,Date of Service
+Skilled Charting,Date of Service
+Skilled Charting,Orders
+Skilled Charting,Resident Name
+Skilled Charting,Skilled Nursing Needs / Skill Intervention
+Skilled Charting,Therapy / Rehabilitative Service
+SNF Certification,Admission Date
+SNF Certification,Date of Service
+SNF Certification,Date of Signature
+SNF Certification,Physician/nurse practitioner (NP)/physician assistant (PA) signature
+SNF Certification,Resident Name
+SNF Certification,Services Required
+SNF Recertification ,Date of Service
+SNF Recertification ,Date of Signature
+SNF Recertification ,Physician/nurse practitioner (NP)/physician assistant (PA) signature
+SNF Recertification ,Resident Name
+SNF Recertification ,Services Required
+Social Services Notes,Date of Service
+TAR,Date of Service
+Therapy evaluation and/or re-evaluation,Date of Evaluation
+Therapy evaluation and/or re-evaluation,Date of Service
+Therapy evaluation and/or re-evaluation,Mention of equipment/brace
+Therapy evaluation and/or re-evaluation,NPI
+Therapy evaluation and/or re-evaluation,Resident Name
+Therapy evaluation and/or re-evaluation,Therapist Name
+Therapy evaluation and/or re-evaluation,Therapist signature Present
+Therapy evaluation and/or re-evaluation,Type of Therapy
+Therapy Log,Date of Service
+Therapy Log,Dates of log
+Therapy Log,Resident Name
+Therapy Log,Signature log Present
+Therapy Log,Type of Therapy
+Therapy Plan of Care,Date of Service
+Therapy Plan of Care,Dates of plan of care 
+Therapy Plan of Care,Equipment / Item
+Therapy Plan of Care,Frequency of planned services (number of times per week and how many weeks)
+Therapy Plan of Care,Resident Name
+Therapy Plan of Care,Therapist date
+Therapy Plan of Care,Therapist signature Present
+Therapy Plan of Care,Type of Therapy
+Therapy Progress Report,Credentials of signatory
+Therapy Progress Report,Date of note
+Therapy Progress Report,Date of Service
+Therapy Progress Report,Date of signatures 
+Therapy Progress Report,Note
+Therapy Progress Report,Resident Name
+Therapy Progress Report,Signature Present
+Therapy Progress Report,Type of therapy
+Therapy treatment notes,Date
+Therapy treatment notes,Date of Service
+Therapy treatment notes,Resident Name
+Therapy treatment notes,Signature present
+Therapy treatment notes,Therapy Note
+Therapy treatment notes,Type of therapy
+Transfer note,Admission Date
+Transfer note,Date of Service
+Transfer note,Discharge Date
+Transfer note,Nurse Practitioner Signature Present?
+Transfer note,Orders
+Transfer note,Physician Signature Present?
+Transfer note,Reason for Hospital Stay
+Transfer note,Resident Name
+Transfer record,Admission Date
+Transfer record,Date of Birth
+Transfer record,Date of Service
+Transfer record,Discharge Date
+Transfer record,Nurse Practitioner Name
+Transfer record,Nurse Practitioner Name Signature present
+Transfer record,Orders
+Transfer record,Physician assistant Name
+Transfer record,Physician assistant Name Signature present
+Transfer record,Physician Name
+Transfer record,Physician Signature present
+Transfer record,Plan of Care
+Transfer record,Qualifying Hospital Stay waiver Type
+Transfer record,Reason for Hospital Stay
+Transfer record,Resident Name
+Discharge Planning Assessment,Date of Service
+Treatment Records,Date of Service
+Treatment Records,Date Range
+Treatment Records,Patient Name
+Treatment Records,Signature Present
+Treatment Records,Treating Provider Name
+Treatment Records,Type of Treatment
+Vaccinations,Date of Service
+Vaccinations,Resident Name
+Vital Signs,Beneficiary name
+Vital Signs,Date of Service
+Vital Signs,Date Range
+Vital Signs,Vitals
+Weekly Skilled Review,Date of Service
+Weekly Summary,Date of Service
